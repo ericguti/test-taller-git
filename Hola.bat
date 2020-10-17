@@ -1,5 +1,5 @@
 ECHO Hola
-ECHO quieres
+ECHO quieres cafe
 ECHO si
 ECHO no
 CHOICE /c SN /m "SI O NO"
