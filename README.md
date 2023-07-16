@@ -1,2 +1,3 @@
 # test-taller-git
-Pues eso
+
+Taller de primer contacto con git.
